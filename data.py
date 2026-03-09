@@ -35,18 +35,18 @@ product_data = {
 "Supply to markets"
 ],
 "images":[
-"media/images/farm3.jpeg" ,
-"media/images/Mustard Oil.png" ,
+"farm3.jpeg" ,
+"Mustard Oil.png" ,
 ],
 "videos":[
-"media/videos/video1.mp4" ,
-"media/videos/video2.mp4" ,
-"media/videos/video3.mp4" ,
-"media/videos/video4.mp4" ,
-"media/videos/video5.mp4" ,
-"media/videos/video6.mp4" ,
-"media/videos/video7.mp4" ,
-"media/videos/video8.mp4" ,
-"media/videos/video9.mp4" ,
+"video1.mp4" ,
+"video2.mp4" ,
+"video3.mp4" ,
+"video4.mp4" ,
+"video5.mp4" ,
+"video6.mp4" ,
+"video7.mp4" ,
+"video8.mp4" ,
+"video9.mp4" ,
 ]
 }
