@@ -30,8 +30,12 @@ h1,h2,h3{
 color:black !important;
 font-weight:700;
 }
+p, span, div {
+color:black !important;
+}
 .card{
 background:black;
+color:white !important;
 padding:20px;
 border-radius:12px;
 box-shadow:0px 4px 10px rgba(0,0,0,0.06);
@@ -94,16 +98,16 @@ st.markdown("""
 
 st.markdown("""
 <div style="display:flex;gap:15px;margin-bottom:25px;flex-wrap:wrap">
-<div style="background:#dff2e1;padding:10px 18px;border-radius:20px;font-weight:600">
+<div style="background:#dff2e1;color:#1b5e20;padding:10px 18px;border-radius:20px;font-weight:600">
 ✅ FSSAI Certified
 </div>
-<div style="background:#dff2e1;padding:10px 18px;border-radius:20px;font-weight:600">
+<div style="background:#dff2e1;color:#1b5e20;padding:10px 18px;border-radius:20px;font-weight:600">
 🌾 Traditional Farming
 </div>
-<div style="background:#dff2e1;padding:10px 18px;border-radius:20px;font-weight:600">
+<div style="background:#dff2e1;color:#1b5e20;padding:10px 18px;border-radius:20px;font-weight:600">
 🏔️ Himalayan Origin
 </div>
-<div style="background:#dff2e1;padding:10px 18px;border-radius:20px;font-weight:600">
+<div style="background:#dff2e1;color:#1b5e20;padding:10px 18px;border-radius:20px;font-weight:600">
 🔍 Traceable Supply Chain
 </div>
 </div>
