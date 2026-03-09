@@ -31,7 +31,7 @@ color:#2f5d3a;
 font-weight:700;
 }
 .card{
-background:white;
+background:black;
 padding:20px;
 border-radius:12px;
 box-shadow:0px 4px 10px rgba(0,0,0,0.06);
