@@ -39,14 +39,14 @@ product_data = {
 "Mustard Oil.png" ,
 ],
 "videos":[
-"video1.mp4" ,
-"video2.mp4" ,
-"video3.mp4" ,
-"video4.mp4" ,
-"video5.mp4" ,
-"video6.mp4" ,
-"video7.mp4" ,
-"video8.mp4" ,
-"video9.mp4" ,
+"Video1.mp4" ,
+"Video2.mp4" ,
+"Video3.mp4" ,
+"Video4.mp4" ,
+"Video5.mp4" ,
+"Video6.mp4" ,
+"Video7.mp4" ,
+"Video8.mp4" ,
+"Video9.mp4" ,
 ]
 }
