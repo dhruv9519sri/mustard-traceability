@@ -181,8 +181,10 @@ st.header("🚛 Supply Chain Timeline")
 st.markdown("""
 <div style="
 display:flex;
+flex-wrap:wrap;
 align-items:center;
-justify-content:space-between;
+justify-content:center;
+gap:15px;
 background:white;
 padding:25px;
 border-radius:12px;
