@@ -114,7 +114,7 @@ st.markdown("""
 st.header("🧑‍🌾🏔️ Our Farmers and Their Village")
 col1, col2 = st.columns([1,2])
 with col1:
-    st.image("media/images/farm2.jpeg" , width=350)
+    st.image("farm2.jpeg" , width=350)
 with col2:
     st.markdown("""
     <div class="card">
@@ -296,9 +296,9 @@ Regulatory compliance
 , unsafe_allow_html=True)
 col1, col2 = st.columns(2)
 with col1:
-    st.image("media/images/Certificate (1).jpeg" , width=350)
+    st.image("Certificate (1).jpeg" , width=350)
 with col2:
-    st.image("media/images/Certificate (2).jpeg" , width=350)
+    st.image("Certificate (2).jpeg" , width=350)
 # ---------------- GALLERY ----------------
 st.header("📸 Photo Gallery")
 cols = st.columns(3)
