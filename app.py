@@ -118,7 +118,7 @@ st.markdown("""
 st.header("🧑‍🌾🏔️ Our Farmers and Their Village")
 col1, col2 = st.columns([1,2])
 with col1:
-    st.image("farm2.jpeg" , use_container_width=True)
+    st.image("farm2.jpeg" , 'width='content')
 with col2:
     st.markdown("""
     <div class="card">
