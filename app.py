@@ -27,7 +27,7 @@ padding-top:2rem;
 padding-bottom:2rem;
 }
 h1,h2,h3{
-color:black;
+color:black !important;
 font-weight:700;
 }
 .card{
